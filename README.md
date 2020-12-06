@@ -12,7 +12,7 @@
 </a>
 
 <br />
-
+<br />
 Hi, I'm PHAM Minh-Thuc, a software embedded engineer graduated from INSA Centre Val de Loire 🎓, currently, I am looking for a first job in French. I would appreciate your support. Thank you in advance for any advice or opportunities you can offer.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
