@@ -39,7 +39,7 @@ Hi, I'm PHAM Minh-Thuc, a software embedded engineer graduated from INSA Centre 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-C++   16 mins         █████████████████████████   100.00 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
