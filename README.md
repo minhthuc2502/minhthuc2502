@@ -13,17 +13,14 @@
 
 <br />
 <br />
-Hi, I'm PHAM Minh-Thuc, a software embedded engineer graduated from INSA Centre Val de Loire 🎓, currently, I am looking for a first job in French. I would appreciate your support. Thank you in advance for any advice or opportunities you can offer.
+Hi, I'm PHAM Minh-Thuc, a developer C++. I'm passionate about prgramming and learning new things in technology.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on some cool C++ projects;
-- 🌱 I’m currently learning QT Framework and Network; 
-- 💬 If you have any offer, thank you for contacting me;
+- 👨🏽‍💻 I’m currently working in some C++ projects;
 - 📫 How to reach me: [@Minh-thuc](https://www.linkedin.com/in/m-pham/);
-- 📝[Resume](https://drive.google.com/file/d/1wrd7-K34a7GjO4-f9_UHLGcUxVF78UcG/view?usp=sharing)
 
 **Languages and Tools:**  
 
