@@ -3,10 +3,6 @@
   <img align="left" alt="Minhthuc's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.instagram.com/thuc.phamminh.9/">
-  <img align="left" alt="MinhThuc's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
 <a href="https://www.facebook.com/thuc.phamminh.9/">
   <img align="left" alt="MinhThuc's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
@@ -19,7 +15,6 @@ Hi, I'm PHAM Minh-Thuc, a developer C++. I'm passionate about prgramming and lea
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working in some C++ projects;
 - 📫 How to reach me: [@Minh-thuc](https://www.linkedin.com/in/m-pham/);
 
 **Languages and Tools:**  
