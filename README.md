@@ -9,7 +9,7 @@
 
 <br />
 <br />
-Hi, I'm PHAM Minh-Thuc, a developer C++. I'm passionate about prgramming and learning new things in technology.
+I'm passionate about prgramming and learning new things in technology.
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
